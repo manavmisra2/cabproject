@@ -647,7 +647,7 @@ void bookingmenu(char nm[], char mob[], char em[])
 		cout<<"\n\t\t***********************************";
 		cout<<"\n\t\t*  Cab Booking Management System  *";
 		cout<<"\n\t\t***********************************";
-		cout<<"\n\t\t* By:- Manav Misra & Divyank Jain * ";
+		cout<<"\n\t\t* 	     By:- Manav Misra 	       * ";
 		cout<<"\n\t\t*      (Session: 2018-2019)       *";
 		cout<<"\n\t\t***********************************";
 		cout<<"\n\t\t\t      Cab Menu    ";
